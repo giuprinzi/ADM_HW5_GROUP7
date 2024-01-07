@@ -15,8 +15,8 @@ We sourced our dataset from this [link]([https://www.google.com](https://www.kag
 The top 10,000 papers with the highest number of citations from Q1 were compiled into a dataframe named *top_10000_papers_df*. We then saved this dataframe as a *.json file* to prevent unnecessary reprocessing in future iterations, since it might take some time.
 
 # **Content of the repository**
-`*main.ipynb:*`  This is the main Jupyter notebook file for this project. It contains comprehensive solutions to the assigned tasks, complete with detailed explanations for each step. The notebook is structured into distinct sections.
+`main.ipynb:`  This is the main Jupyter notebook file for this project. It contains comprehensive solutions to the assigned tasks, complete with detailed explanations for each step. The notebook is structured into distinct sections.
 
-*commandline.[ext]:* the script file to answer the command line question.<br>
+`commandline.[ext]:` the script file to answer the command line question.<br>
 
-*commandline.jpeg:* photo of the command line output
+`commandline.jpeg:` photo of the command line output
