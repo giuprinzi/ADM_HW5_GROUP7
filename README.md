@@ -11,4 +11,4 @@ Following you can find the the informations about the Data Science students that
 
 
 # **Content of the repository**
-*main.ipynb:*  Nnotebook file where you can find all the answers to the hoemwork requests, with relatiev explanations
+*main.ipynb:*  Notebook file where you can find all the answers to the hoemwork requests, with relatiev explanations
