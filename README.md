@@ -10,10 +10,12 @@ Following you can find the the informations about the Data Science students that
 | Gennaro | De Cicco| GennaroDeCicco | gennarodecicco3@gmail.com |
 
 # **Dataset informations**
-The dataset was taken from the following link https://www.kaggle.com/datasets/mathurinache/citation-network-dataset, and as suggested we worked on a reduced dataset.<br>
-The top 10,000 papers with the highest number of citations were stored in a dataframe , saved afterward in a *.json file* in order to avoid rerunning it when needed.
+We sourced our dataset from this [link]([https://www.google.com](https://www.kaggle.com/datasets/mathurinache/citation-network-dataset))
+, following the recommended approach of working with a smaller subset.<br>
+The top 10,000 papers with the highest number of citations from Q1 were compiled into a dataframe named *top_10000_papers_df*. We then saved this dataframe as a *.json file* to prevent unnecessary reprocessing in future iterations, since it might take some time.
+
 # **Content of the repository**
-*main.ipynb:*  Notebook file where you can find all the answers to the homework requests, with relatiev explanations and, as per requested, all the cells already runned and divided in sections
+*main.ipynb:*  This is the main Jupyter notebook file for this project. It contains comprehensive solutions to the assigned tasks, complete with detailed explanations for each step. The notebook is structured into distinct sections.
 
 *commandline.[ext]:* the script file to answer the command line question.<br>
 
