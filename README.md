@@ -17,6 +17,6 @@ The top 10,000 papers with the highest number of citations from Q1 were compiled
 # **Content of the repository**
 `main.ipynb:`  This is the main Jupyter notebook file for this project. It contains comprehensive solutions to the assigned tasks, complete with detailed explanations for each step. The notebook is structured into distinct sections.
 
-`commandline.[ext]:` the script file to answer the command line question.<br>
+`CommandLine.sh:` the script file to answer the command line question.<br>
 
-`commandline.jpeg:` photo of the command line output
+`clq.PNG:` screenshot of the command line output
