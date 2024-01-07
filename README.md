@@ -15,4 +15,5 @@ The dataset was taken from the following link https://www.kaggle.com/datasets/ma
 *main.ipynb:*  Notebook file where you can find all the answers to the homework requests, with relatiev explanations and, as per requested, all the cells already runned and divided in sections
 
 *commandline.[ext]:* the script file to answer the command line question.<br>
+
 *commandline.jpeg:* photo of the command line output
