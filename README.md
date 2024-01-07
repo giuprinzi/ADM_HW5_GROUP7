@@ -1,6 +1,6 @@
 # ADM_HW5_GROUP7
 
-# **Group memebrs informations**
+# **Group members informations**
 Following you can the the informations about the Data Science students that worked on this final Homework for ADM class 2023/2024:
 | Name | Surname | GitHub @ | Email |
 |------|---------|-----------|-------|
