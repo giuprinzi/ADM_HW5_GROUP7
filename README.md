@@ -12,4 +12,7 @@ Following you can find the the informations about the Data Science students that
 #**Dataset informatins**
 The dataset was taken from the following link https://www.kaggle.com/datasets/mathurinache/citation-network-dataset, and as suggested we worked on a reduced dataset.
 # **Content of the repository**
-*main.ipynb:*  Notebook file where you can find all the answers to the hoemwork requests, with relatiev explanations
+*main.ipynb:*  Notebook file where you can find all the answers to the homework requests, with relatiev explanations and, as per requested, all the cells already runned and divided in sections
+
+*commandline.[ext]:* the script file to answer the command line question.
+*commandline.jpeg:* photo of the command line output
